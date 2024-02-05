@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google-protobuf (3.25.2)
+
+PLATFORMS
+  aarch64-linux
+  arm64-darwin
+  ruby
+  x86-linux
+  x86_64-darwin
+  x86_64-linux
+
+DEPENDENCIES
+  google-protobuf
+
+RUBY VERSION
+   ruby 3.3.0p0
+
+BUNDLED WITH
+   2.5.5
