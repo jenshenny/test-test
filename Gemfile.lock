@@ -2,7 +2,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     google-protobuf (3.25.2)
-    zeitwerk (2.6.11)
+    google-protobuf (3.25.2-aarch64-linux)
+    google-protobuf (3.25.2-arm64-darwin)
+    google-protobuf (3.25.2-x86-linux)
+    google-protobuf (3.25.2-x86_64-darwin)
+    google-protobuf (3.25.2-x86_64-linux)
+    zeitwerk (2.6.13)
 
 PLATFORMS
   aarch64-linux
@@ -14,7 +19,7 @@ PLATFORMS
 
 DEPENDENCIES
   google-protobuf
-  zeitwerk (= 2.6.11)
+  zeitwerk
 
 BUNDLED WITH
    2.5.5
